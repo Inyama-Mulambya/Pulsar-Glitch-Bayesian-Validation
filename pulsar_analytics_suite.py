@@ -1,5 +1,5 @@
 """
-Pulsar Glitch Sensor Fusion & Computational Statistical Analytics Suite
+Pulsar Glitch & Computational Statistical Analytics Suite
 Author: [Inyama C. Mulambya]
 Description: Implements statistical distribution testing, bimodal mixture optimization,
              non-parametric significance metrics, and Bayesian MCMC parameter estimation.
